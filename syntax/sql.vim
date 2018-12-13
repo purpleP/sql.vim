@@ -22,6 +22,7 @@ syn keyword sqlKeyword drop
 syn keyword sqlKeyword exists
 syn keyword sqlKeyword foreign
 syn keyword sqlKeyword from
+syn keyword sqlKeyword full
 syn keyword sqlKeyword group
 syn keyword sqlKeyword having
 syn keyword sqlKeyword if
