@@ -6,10 +6,12 @@ endif
 syn case ignore
 
 syn keyword sqlKeyword add
+syn keyword sqlKeyword after
 syn keyword sqlKeyword all
 syn keyword sqlKeyword alter
 syn keyword sqlKeyword and
 syn keyword sqlKeyword as
+syn keyword sqlKeyword before
 syn keyword sqlKeyword between
 syn keyword sqlKeyword by
 syn keyword sqlKeyword case
@@ -28,6 +30,7 @@ syn keyword sqlKeyword having
 syn keyword sqlKeyword if
 syn keyword sqlKeyword in
 syn keyword sqlKeyword insert
+syn keyword sqlKeyword instead
 syn keyword sqlKeyword into
 syn keyword sqlKeyword is
 syn keyword sqlKeyword join
@@ -36,6 +39,7 @@ syn keyword sqlKeyword left
 syn keyword sqlKeyword limit
 syn keyword sqlKeyword merge
 syn keyword sqlKeyword not
+syn keyword sqlKeyword of
 syn keyword sqlKeyword offset
 syn keyword sqlKeyword on
 syn keyword sqlKeyword or
@@ -50,6 +54,7 @@ syn keyword sqlKeyword select
 syn keyword sqlKeyword set
 syn keyword sqlKeyword table
 syn keyword sqlKeyword then
+syn keyword sqlKeyword trigger
 syn keyword sqlKeyword union
 syn keyword sqlKeyword unique
 syn keyword sqlKeyword update
