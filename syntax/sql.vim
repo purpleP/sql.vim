@@ -44,6 +44,7 @@ syn keyword sqlKeyword outer
 syn keyword sqlKeyword over
 syn keyword sqlKeyword overlaps
 syn keyword sqlKeyword primary
+syn keyword sqlKeyword replace
 syn keyword sqlKeyword right
 syn keyword sqlKeyword select
 syn keyword sqlKeyword set
@@ -54,6 +55,7 @@ syn keyword sqlKeyword unique
 syn keyword sqlKeyword update
 syn keyword sqlKeyword using
 syn keyword sqlKeyword values
+syn keyword sqlKeyword view
 syn keyword sqlKeyword where
 syn keyword sqlKeyword with
 
