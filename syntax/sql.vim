@@ -68,7 +68,7 @@ syn keyword sqlConstant true
 syn keyword sqlConstant false
 syn keyword sqlConstant null
 
-syn match sqlNumber "\d\+"
+syn match sqlNumber "\<\d\+"
 
 syn region sqlComment start="/\*" end="\*/"
 syn match sqlComment "--\_s.*"
