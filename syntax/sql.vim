@@ -18,6 +18,7 @@ syn keyword sqlKeyword column
 syn keyword sqlKeyword constraint
 syn keyword sqlKeyword create
 syn keyword sqlKeyword delete
+syn keyword sqlKeyword desc
 syn keyword sqlKeyword distinct
 syn keyword sqlKeyword drop
 syn keyword sqlKeyword exists
