@@ -46,6 +46,7 @@ syn keyword sqlKeyword order
 syn keyword sqlKeyword outer
 syn keyword sqlKeyword over
 syn keyword sqlKeyword overlaps
+syn keyword sqlKeyword partition
 syn keyword sqlKeyword primary
 syn keyword sqlKeyword replace
 syn keyword sqlKeyword right
