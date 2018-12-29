@@ -21,6 +21,8 @@ syn keyword sqlKeyword delete
 syn keyword sqlKeyword desc
 syn keyword sqlKeyword distinct
 syn keyword sqlKeyword drop
+syn keyword sqlKeyword else
+syn keyword sqlKeyword end
 syn keyword sqlKeyword exists
 syn keyword sqlKeyword foreign
 syn keyword sqlKeyword from
