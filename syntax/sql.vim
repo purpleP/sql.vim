@@ -10,6 +10,7 @@ syn keyword sqlKeyword all
 syn keyword sqlKeyword alter
 syn keyword sqlKeyword and
 syn keyword sqlKeyword as
+syn keyword sqlKeyword asc
 syn keyword sqlKeyword before
 syn keyword sqlKeyword between
 syn keyword sqlKeyword by
