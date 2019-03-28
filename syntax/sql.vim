@@ -65,6 +65,7 @@ syn keyword sqlKeyword update
 syn keyword sqlKeyword using
 syn keyword sqlKeyword values
 syn keyword sqlKeyword view
+syn keyword sqlKeyword when
 syn keyword sqlKeyword where
 syn keyword sqlKeyword with
 
