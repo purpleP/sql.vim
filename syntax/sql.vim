@@ -67,6 +67,7 @@ syn keyword sqlKeyword values
 syn keyword sqlKeyword view
 syn keyword sqlKeyword when
 syn keyword sqlKeyword where
+syn keyword sqlKeyword window
 syn keyword sqlKeyword with
 
 syn keyword sqlConstant true
